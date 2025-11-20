@@ -1,5 +1,5 @@
 # smid_sh
-My own command line intrerpereter written c++. Always looking for some help to make it better
+My own command line interpreter written c++. Always looking for some help to make it better
 
 The goal is to somewhat mimic the functionality of a standard Unix-like shell. Maybe with some other tools.
 The ideal outcome of this project is to make this simple enough to port to homebrew devices, new and old.
